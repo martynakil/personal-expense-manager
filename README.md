@@ -1,0 +1,2 @@
+# personal-expense-manager
+This little app is used to calculate expenses and income. Using the "add transaction" button, we can add income or expense with the appropriate category. Revenue goes to 'your' panel and expenditure goes to your panel. Everything is counted and we can see what is our account balance. We can change the color of the control panel, we can delete any transaction, there is validation to enter transaction data. Written with html, css and js.
