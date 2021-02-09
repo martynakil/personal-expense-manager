@@ -22,8 +22,8 @@ You can change the color of the app :blush:
 * I learned the basics of JS here
 * I practiced CSS, and most of all [FLEXBOX](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 * Arrow and SWITCH functions
-* DOM Elements (searching for elements from the DOM : addEventListener, querySelector, getElementsByClassNam)
-* I used: parseFloat, createElement, reduce, splice, indexOf
+* DOM Elements (searching for elements from the DOM : addEventListener, querySelector, getElementById )
+* I used: parseFloat, createElement,removeChild, reduce, splice, indexOf,setAttribute,setProperty
 
 
 -----
@@ -32,7 +32,7 @@ You can change the color of the app :blush:
 :computer: TECHNOLOGIES : html, CSS  and JS.
 
 
-
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/weather-app)
 
 ![Zrzut ekranu 2021-01-17 o 12 10 26](https://user-images.githubusercontent.com/59742201/104838849-bd203580-58bd-11eb-96ae-ddb833212aa7.png)
 
