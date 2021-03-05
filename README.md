@@ -37,7 +37,7 @@ You can change the color of the app :blush:
 
 -----
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/personal-expense-manager/index.html)
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakiljan.github.io/personal-expense-manager/index.html)
 
 -----
 
@@ -45,7 +45,7 @@ do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https
 :computer: TECHNOLOGIES : html, CSS  and JS.
 
 
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/weather-app)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/weather-app)
 
 ![Zrzut ekranu 2021-01-17 o 12 10 26](https://user-images.githubusercontent.com/59742201/104838849-bd203580-58bd-11eb-96ae-ddb833212aa7.png)
 
